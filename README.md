@@ -1,6 +1,10 @@
 # EX-05-Feature-Generation
 
 
+NAME=AKASH.A
+REGISTER NO= 212221040010
+
+
 ## AIM
 To read the given data and perform Feature Generation process and save the data to a file. 
 
