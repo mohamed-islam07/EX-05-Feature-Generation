@@ -1,8 +1,8 @@
 # EX-05-Feature-Generation
 
 
-NAME=AKASH.A
-REGISTER NO= 212221040010
+NAME= Mohamed Islam
+REGISTER NO= 212220220025
 
 
 ## AIM
